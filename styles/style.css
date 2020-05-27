@@ -17,6 +17,7 @@ body {
 
 .card-type-example {
 	display: flex;
+	justify-content: center;
 }
 .card-img-top {
 	width: 100%;
