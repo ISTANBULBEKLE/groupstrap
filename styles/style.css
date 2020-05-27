@@ -14,3 +14,11 @@ body {
 /**
  * Add your styles below
  */
+
+.card-type-example {
+	display: flex;
+}
+.card-img-top {
+	width: 100%;
+	height: 50%;
+}
